@@ -26,6 +26,11 @@ import arrow from './arrow.svg'
 import contact from './contact.svg'
 import soundon from './soundon.png'
 import soundoff from './soundoff.png'
+import maps from './maps.svg'
+import trailer from './trailer.svg'
+import chat from './chat.svg'
+import gpt from './gpt.svg'
+import weather from './weather.svg'
 
 export {
     css,
@@ -55,5 +60,10 @@ export {
     arrow,
     contact,
     soundon,
-    soundoff
+    soundoff,
+    maps,
+    trailer,
+    chat,
+    gpt,
+    weather
 }
